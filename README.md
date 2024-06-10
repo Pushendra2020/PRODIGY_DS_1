@@ -1,4 +1,4 @@
-# PRODIGY_DS_2
+# PRODIGY_DS_1
 import pandas as pd
 
 
@@ -51,7 +51,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Population data for Maharashtra
 population_data = {
     "State": ["Maharashtra"],
     "Population": [112374333]
